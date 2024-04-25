@@ -1,4 +1,4 @@
-## Delhi Daily Climate Data Analysis
+## Delhi Daily Climate Prediction
 
 I conducted an analysis on a dataset comprising daily climate information for Delhi spanning from 2013 to 2016 for training data and 2017 for testing data. The training data consists of 1461 entries, while the test data contains 114 entries.
 
